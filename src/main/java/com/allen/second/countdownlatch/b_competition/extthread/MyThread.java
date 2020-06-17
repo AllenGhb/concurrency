@@ -1,4 +1,4 @@
-package com.allen.first.countdownlatch.b_competition.extthread;
+package com.allen.second.countdownlatch.b_competition.extthread;
 
 
 import java.util.concurrent.CountDownLatch;

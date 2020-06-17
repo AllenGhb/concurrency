@@ -1,7 +1,7 @@
-package com.allen.first.countdownlatch.a_countdownlatch.extthread;
+package com.allen.second.countdownlatch.a_countdownlatch.extthread;
 
 
-import com.allen.first.countdownlatch.a_countdownlatch.service.MyService;
+import com.allen.second.countdownlatch.a_countdownlatch.service.MyService;
 
 public class MyThread extends Thread {
 

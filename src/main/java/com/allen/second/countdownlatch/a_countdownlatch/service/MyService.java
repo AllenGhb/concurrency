@@ -1,4 +1,4 @@
-package com.allen.first.countdownlatch.a_countdownlatch.service;
+package com.allen.second.countdownlatch.a_countdownlatch.service;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;

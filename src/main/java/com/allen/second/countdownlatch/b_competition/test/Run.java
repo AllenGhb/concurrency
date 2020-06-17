@@ -1,6 +1,6 @@
-package com.allen.first.countdownlatch.b_competition.test;
+package com.allen.second.countdownlatch.b_competition.test;
 
-import com.allen.first.countdownlatch.b_competition.extthread.MyThread;
+import com.allen.second.countdownlatch.b_competition.extthread.MyThread;
 
 import java.util.concurrent.CountDownLatch;
 

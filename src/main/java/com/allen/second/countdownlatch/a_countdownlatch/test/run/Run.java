@@ -1,8 +1,8 @@
-package com.allen.first.countdownlatch.a_countdownlatch.test.run;
+package com.allen.second.countdownlatch.a_countdownlatch.test.run;
 
 
-import com.allen.first.countdownlatch.a_countdownlatch.extthread.MyThread;
-import com.allen.first.countdownlatch.a_countdownlatch.service.MyService;
+import com.allen.second.countdownlatch.a_countdownlatch.extthread.MyThread;
+import com.allen.second.countdownlatch.a_countdownlatch.service.MyService;
 
 public class Run {
 	public static void main(String[] args) throws InterruptedException {
